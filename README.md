@@ -1,7 +1,9 @@
 # Tarea-N-5
 Repositorio para la tarea (Tienda de Frutas)
+Simulación de tienda por consola en Python con manejo de stock y carrito de compras.
 
-Agregue un archivo .py en la nueva rama, se trata sobre una tienda de frutas, se realizó para practicar GitHub.
+Agregue un archivo .py en la nueva rama, se trata sobre 
+una tienda de frutas, se realizó para practicar GitHub.
 
 ----CAMBIOS REALIZADOS----
 Se creó un archivo "tiendita.py", es un sistema muy simple que se puede mejorar en un futuro, metiendole html, base de datos, ya una página web y por ultimo:
